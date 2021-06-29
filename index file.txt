@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Entech</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="Capture.jpg" alt="The Word"></td>
+      <td>
+        <h3><strong>Opeyemi Owolabi</strong></h3>
+        <p><em>Founder and CTO of Entech</em></p>
+        <p> A professional <strong>Web developer</strong>, and <strong>Software Test Engineer</strong></p>
+        <p>I am a professional Web developer, who designs and write front end/UI software code, and also design scenarios and execute test cases to test the feature
+           and functionality of software for both front and back end to ensure quality of software products released into the market.
+         </p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+
+  <h4><strong>Education</strong></h4>
+  <ul>
+    <li><em>Towson University: M. Sc. Applied Information Technology 2013 - 2015</em></li>
+    <li><em>Olabisi Onabanjo University: B. Sc Banking & Finance 2002 - 2007</em></li>
+    <li><em>Osun State Polytechnic: National Diploma in Accountancy 1998 - 2001</em></li>
+  </ul>
+  <h4><strong>Hobbies</strong></h4>
+  <ul>
+    <li><em>Playing soccer</em></li>
+    <li><em>Socializing</em></li>
+    <li><em>Beer crafting</em></li>
+  </ul>
+  <hr>
+  <h4>Work Experience</h4>
+  <table cellspacing="20">
+    <thead>
+      <th>Dates</th>
+      <th>Role</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2015 - 2016</td>
+        <td>Business Analyst/Software Tester at America for Animals</td>
+      </tr>
+      <tr>
+        <td>2016 - 2019</td>
+        <td>Sr. Test Engineer at ManTech International Corp.</td>
+      </tr>
+      <tr>
+        <td>2019 - Present</td>
+        <td>Sr. Software Tester Contracted to CVP</td>
+      </tr>
+      <tr>
+        <td>2019 - Present</td>
+        <td>Web Designer/Developer for Daniel's Crunch</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h4>Skills</h4>
+<table cellspacing="10">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>System Testing</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>End to end Testing</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+    </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Front End Development</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Back End Development</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<hr>
+  <a href="Contact.html">Contact</a>
+</body>
+
+</html>
